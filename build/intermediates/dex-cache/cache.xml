@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Practica3.1-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="21ba5888ebff7908fcd9c28213f1ab55a3d6b4b9">
+        <dex dex="C:\Users\CECyT9\Desktop\Practica3.1-master\app\build\intermediates\pre-dexed\debug\instant-run_62fbff24f29625d4728d243507813681c671e284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Practica3.1-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="644a88ed6b58dbeef011262d505ce0c33ab28aae">
+        <dex dex="C:\Users\CECyT9\Desktop\Practica3.1-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_635a3b1e675ea0f8e8cb7be2128f36e7dc135fdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Practica3.1-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\CECyT9\Desktop\Practica3.1-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_4bde885495975d6b7dd26905e85b7748d17eb665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\CECyT9\Desktop\Practica3.1-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_d3c3101c895829a414caf86cba42c31c38c8e865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Practica3.1-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\CECyT9\Desktop\Practica3.1-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_5aa99e25147856021cc7acdcc028ab5750361949.jar" />
+    </item>
+
+</items>
